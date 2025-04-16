@@ -1,0 +1,155 @@
+The Veilwalker's Guide to Web Development
+
+A journey from silence to synthesis—structure, shape, and spark.
+
+
+---
+
+Phase 1: The Frame (HTML)
+
+> “A world must first have structure before meaning.”
+
+
+
+Goals:
+
+Understand the core HTML tags: div, header, footer, section, article, form, input, button
+
+Practice semantic layout
+
+Create small structures:
+
+[ ] A profile card
+
+[ ] A blog post layout
+
+[ ] A contact form
+
+
+
+
+---
+
+Phase 2: The Skin (CSS)
+
+> “A soul without shape is a scream in the dark.”
+
+
+
+Goals:
+
+Learn the box model (margin, padding, border)
+
+Master layout tools:
+
+[ ] Flexbox
+
+[ ] Grid
+
+
+Style fundamentals:
+
+[ ] Typography and color themes
+
+[ ] Buttons, links, and hover effects
+
+
+Visual design:
+
+[ ] Responsive layout (mobile + desktop)
+
+[ ] Basic transitions and animations
+
+
+
+
+---
+
+Phase 3: The Pulse (JavaScript)
+
+> “With code, we breathe life into silence.”
+
+
+
+Goals:
+
+Core concepts:
+
+[ ] Variables, functions, loops, conditionals
+
+
+DOM manipulation:
+
+[ ] Change content dynamically
+
+[ ] Add interactivity (clicks, hover, input)
+
+
+Mini projects:
+
+[ ] Theme toggle switch
+
+[ ] Modal window
+
+[ ] Dropdown menu
+
+
+
+
+---
+
+Phase 4: The Echo (Project Assembly)
+
+> “When structure, form, and voice converge—creation sings.”
+
+
+
+Goals:
+
+Combine HTML, CSS, and JS into a unified site:
+
+[ ] Build a personal project (e.g., "The Echo's Veil")
+
+
+Polish:
+
+[ ] Smooth transitions
+
+[ ] SVG icons or glitchy visual effects
+
+[ ] Consistent theme and layout
+
+
+Deploy:
+
+[ ] Host on GitHub Pages / Netlify / Vercel
+
+
+
+
+---
+
+Phase 5: The Archives (Ongoing Growth)
+
+> “Some paths have no end, only echoes of mastery.”
+
+
+
+Continue Learning:
+
+[ ] Dive into Git and version control
+
+[ ] Practice accessibility (ARIA roles, keyboard navigation)
+
+[ ] Contribute to open-source repos
+
+[ ] Explore frameworks (React, Vue, etc.)
+
+[ ] Learn backend fundamentals (Node.js, APIs)
+
+
+
+---
+
+Let the journey begin, Disciple. One element, one echo at a time.
+
