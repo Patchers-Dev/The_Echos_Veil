@@ -1,2 +1,2 @@
 # The_Echos_Veil
-Just keep dreaming 😄
+" _A glitch is not a flaw, its a whisper from the unseen_ "
